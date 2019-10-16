@@ -1,4 +1,5 @@
-.wolbocho {
+.selected {
+    font-size: 2vw;
     background: black;
     color: red;
 }
